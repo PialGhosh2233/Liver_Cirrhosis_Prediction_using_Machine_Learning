@@ -1,4 +1,3 @@
-Info:
 
 Cirrhosis is a type of liver damage where healthy cells are replaced by scar tissue. 
 Common causes include excessive drinking of alcohol, hepatitis B and C virus infections, and fatty liver that’s caused by obesity and diabetes.
