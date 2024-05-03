@@ -45,11 +45,3 @@ Attribute Information
 #### Contribution
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-#### License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-This README template provides a concise overview of the project, key steps involved in the analysis, instructions for setup and usage, and guidelines for contributing, which are typical components of a well-documented GitHub repository.
