@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/fedesoriano/cirrhosis-prediction-dataset
 
 Cirrhosis is a liver disease characterized by abnormal liver function due to chronic liver damage. Effective prediction of cirrhosis stages can aid in better management and treatment strategies for patients. This project utilizes Logistic Regression, K-Nearest Neighbors (KNN), and Random Forest classifiers to model and predict the stages of cirrhosis from clinical data.
 
-#### Data Description
+#### Dataset Description
 
 The following data contains the information collected from the Mayo Clinic trial in primary biliary cirrhosis (PBC) of the liver conducted between 1974 and 1984. A description of the clinical background for the trial and the covariates recorded here is in Chapter 0, especially Section 0.2 of Fleming and Harrington, Counting
 Processes and Survival Analysis, Wiley, 1991. A more extended discussion can be found in Dickson, et al., Hepatology 10:1-7 (1989) and in Markus, et al., N Eng J of Med 320:1709-13 (1989).
