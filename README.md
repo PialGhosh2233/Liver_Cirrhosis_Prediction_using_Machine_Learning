@@ -1,6 +1,7 @@
 ### Cirrhosis Stage Prediction Using Machine Learning
 
-This repository contains the implementation of a machine learning project aimed at predicting the stage of cirrhosis based on clinical features. The dataset, sourced from a public health database, includes various biochemical parameters and clinical features of patients diagnosed with cirrhosis.
+This repository contains the implementation of a machine learning project aimed at predicting the stage of cirrhosis based on clinical features. The dataset, sourced from here:
+https://www.kaggle.com/datasets/fedesoriano/cirrhosis-prediction-dataset
 
 #### Project Overview
 
