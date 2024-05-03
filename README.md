@@ -42,19 +42,6 @@ Attribute Information
 - **Model Evaluation:** Assessing models based on accuracy and using confusion matrices for detailed performance analysis.
 - **Result Visualization:** Comparing the performance of different models visually.
 
-#### How to Use
-
-1. Clone this repository.
-2. Install required Python packages: `pip install -r requirements.txt`
-3. Run the Python scripts or Jupyter Notebooks.
-
-```bash
-git clone https://github.com/your-username/cirrhosis-stage-prediction.git
-cd cirrhosis-stage-prediction
-pip install -r requirements.txt
-python model_script.py
-```
-
 #### Contribution
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
